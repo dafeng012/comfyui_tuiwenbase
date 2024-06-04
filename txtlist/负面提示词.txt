@@ -1,0 +1,7 @@
+(worst quality, low quality, bad_pictures, negative_hand-neg:1.2),1
+(worst quality, low quality, bad_pictures, negative_hand-neg:1.2),2
+(worst quality, low quality, bad_pictures, negative_hand-neg:1.2),3
+(worst quality, low quality, bad_pictures, negative_hand-neg:1.2),4
+(worst quality, low quality, bad_pictures, negative_hand-neg:1.2),5
+(worst quality, low quality, bad_pictures, negative_hand-neg:1.2),6
+(worst quality, low quality, bad_pictures, negative_hand-neg:1.2),7
